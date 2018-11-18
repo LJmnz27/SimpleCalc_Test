@@ -1,0 +1,4 @@
+#Sun Nov 18 17:04:55 EST 2018
+base.0=/Users/luisjimenez/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
